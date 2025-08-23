@@ -15,3 +15,20 @@ def emojireplace(message):
 
 user_input = input("Enter your emotion: ")
 print(emojireplace(user_input.lower()))
+
+
+
+# emoji={'happy':'😁','sad':'😢','angry':'😡','pizza':'🍕'}
+# n=input("Enter message:")
+# for key,value in emoji.items():
+#       n=n.replace(key,value)
+# print(n)
+
+# OR
+
+# emoji={'happy':'😁','sad':'😢','angry':'😡','pizza':'🍕'}
+# n=input("Enter message:")
+# for a in emoji:
+#     if a in n:
+#         n=n.replace(a,emoji[a])
+# print(n)
