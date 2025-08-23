@@ -1,5 +1,5 @@
 # LIST OPERATIONS
-
+ 
 # list=["apple","orange","kiwi","mango","banana"]
 # print(list)
 # print(list[0])
