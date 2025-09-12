@@ -37,16 +37,6 @@ print("R^2 score:",round(r2,4))
 
 
 
-
-
-
-
-
-
-
-
-
-
 # OTHER WAY OF CODE 
 
 
