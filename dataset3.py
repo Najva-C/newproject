@@ -8,7 +8,7 @@ x = np.array([2500,2000,1000,1500,1650]).reshape(-1,1)
 y = np.array([12000,234570,345680,35790,12345])
 model = LinearRegression()
 model.fit(x,y)
-
+                                                 
 # MODEL PARAMETERS 
 print("Intercept (base price)",model.intercept_)
 print("Slope (price per sqft)",model.coef_[0])
